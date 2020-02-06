@@ -1,0 +1,23 @@
+STATUS
+X Canceled
+? Created
++ Pending
+- Working
+= Completed
+
+02032020
+? Do not have reliable internet till the next phone cycle
+? Install Node
+? Install Ionic
+? Journal your task from the change log
+? Install a journal (digital)
+? Use the internet in the business center
+? Sign-up for Xfinity interent
+? Find someone to work with to use internet
+
+02042020
+02052020
+02062020
+
+02162020
++ Phone cycle changes for tethering
