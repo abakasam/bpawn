@@ -1,4 +1,24 @@
 TOOLS
+ [General]
+Cloud IDE                   https://codeanywhere.com
+Web Browser                 https://www.microsoft.com/en-us/windows/microsoft-edge
+Text Editor                 https://foicica.com/textadept
+Online Journal              https://penzu.com/
+Operating System            https://www.microsoft.com/en-us/windows
+Online Education            https://www.linkedin.com/learning/
+Application Framework       https://ionicframework.com/
+Runtime Environment         https://nodejs.org/en/
+Package Manager             https://www.npmjs.com/
+Development Environment     https://www.centos.org/
+Web Framework               https://angular.io/
+Session Recording           https://asciinema.org/
+
+ [Commands]
+
+ [Languages]
+Javascript                  http://www.ecma-international.org/
+HTML                        https://whatwg.org/
+CSS                         https://www.w3.org/Style/CSS/
 
 STATUS
 X Canceled
@@ -8,18 +28,32 @@ X Canceled
 = Completed
 
 02032020
-? Do not have reliable internet till the next phone cycle
-? Install Node
-? Install Ionic
-? Journal your task from the change log
-? Install a journal (digital)
-? Use the internet in the business center
-? Sign-up for Xfinity interent
-? Find someone to work with to use internet
+= Do not have reliable internet till the next phone cycle
+= Install Node
+= Install Ionic
+= Journal your task from the change log
+X Install a journal (digital)
+= Use the internet in the business center
+X Sign-up for Xfinity interent
+- Find someone to work with to use internet
 
 02042020
 02052020
 02062020
 
 02162020
-+ Phone cycle changes for tethering
+= Phone cycle changes for tethering
+
+02212020
+- USB was taken while at business center
+= Remember to git to save changes
+= Adding folders and files to get remembering
+= Upgrade Node
+= Do not send data to Google
+- ionic serve on Codeanywhere
+- ionic serve FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+
+02242020
++ Figure out how to reuse journal
+= Store session files
+- Log sessions with asciinema
