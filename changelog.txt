@@ -12,6 +12,7 @@ Package Manager             https://www.npmjs.com/
 Development Environment     https://www.centos.org/
 Web Framework               https://angular.io/
 Session Recording           https://asciinema.org/
+Cloud Notebook              https://www.onenote.com/
 
  [Commands]
 
@@ -57,3 +58,7 @@ X Sign-up for Xfinity interent
 + Figure out how to reuse journal
 = Store session files
 - Log sessions with asciinema
+- Set system locale, missing /etc/locale.conf
+= Find out how to use task routines
+- ng comes from Angular, run basic angular application
+- The Schematic workflow failed error with Angular
