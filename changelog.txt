@@ -11,7 +11,7 @@ Runtime Environment         https://nodejs.org/en/
 Package Manager             https://www.npmjs.com/
 Development Environment     https://www.centos.org/
 Web Framework               https://angular.io/
-Session Recording           https://asciinema.org/
+Session Recorder            https://asciinema.org/
 Cloud Notebook              https://www.onenote.com/
 
  [Commands]
@@ -46,7 +46,7 @@ X Sign-up for Xfinity interent
 = Phone cycle changes for tethering
 
 02212020
-- USB was taken while at business center
+X USB was taken while at business center
 = Remember to git to save changes
 = Adding folders and files to get remembering
 = Upgrade Node
@@ -55,10 +55,15 @@ X Sign-up for Xfinity interent
 - ionic serve FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
 
 02242020
-+ Figure out how to reuse journal
+= Figure out how to reuse journal
 = Store session files
-- Log sessions with asciinema
-- Set system locale, missing /etc/locale.conf
+= Log sessions with asciinema
+= Set system locale, missing /etc/locale.conf
 = Find out how to use task routines
 - ng comes from Angular, run basic angular application
 - The Schematic workflow failed error with Angular
+= Start meeting weekly to keep progress
+
+02252020
+X Setup an FTP for Codeanywhere
+= Create routines for bpawn
