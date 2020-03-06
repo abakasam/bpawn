@@ -4,22 +4,43 @@ Cloud IDE                   https://codeanywhere.com
 Web Browser                 https://www.microsoft.com/en-us/windows/microsoft-edge
 Text Editor                 https://foicica.com/textadept
 Online Journal              https://penzu.com/
-Operating System            https://www.microsoft.com/en-us/windows
+Cloud Notebook              https://www.onenote.com/
 Online Education            https://www.linkedin.com/learning/
+Error Reporting             Catch
+Operating System            https://www.microsoft.com/en-us/windows
+Development Environment     https://www.centos.org/
+Session Recorder            https://asciinema.org/
+Web Server                  https://azure.microsoft.com/en-us
+Web Hosting                 https://woomhost.com/
+Diagramming Application     https://products.office.com/en-us/visio
+Online Wiki                 https://wikidot.com/
+Word Processor              https://office.live.com/start/Word.aspx
+Presntation Application     https://office.live.com/start/PowerPoint.aspx
+
+ [Commands]
 Application Framework       https://ionicframework.com/
 Runtime Environment         https://nodejs.org/en/
 Package Manager             https://www.npmjs.com/
-Development Environment     https://www.centos.org/
 Web Framework               https://angular.io/
-Session Recorder            https://asciinema.org/
-Cloud Notebook              https://www.onenote.com/
+End to End Test             https://nightwatchjs.org/
+Module Bundler              Rollup
+Template Engine             Pug
+Live Load                   Beefy
+Unit Test                   Unit
+Module Loader               Require
+Static Type Checker         https://flow.org/en/
+Documentation Generator     ?
+Comment Generator           ?
 
- [Commands]
+ [Book]
+Craigslist                  https://github.com/mislam/craigslist-api
 
  [Languages]
-Javascript                  http://www.ecma-international.org/
-HTML                        https://whatwg.org/
-CSS                         https://www.w3.org/Style/CSS/
+Programming                 http://www.ecma-international.org/
+Markup                      https://whatwg.org/
+Style Sheet                 https://www.w3.org/Style/CSS/
+Flow Programming            https://github.com/jpaulm/jsfbp
+Automata Programming        https://rosmaro.js.org/
 
 STATUS
 X Canceled
@@ -36,7 +57,7 @@ X Canceled
 X Install a journal (digital)
 = Use the internet in the business center
 X Sign-up for Xfinity interent
-- Find someone to work with to use internet
+X Find someone to work with to use internet
 
 02042020
 02052020
@@ -45,14 +66,22 @@ X Sign-up for Xfinity interent
 02162020
 = Phone cycle changes for tethering
 
+02172020
+02182020
+02192020
+02202020
+
 02212020
-X USB was taken while at business center
++ USB was taken while at business center
 = Remember to git to save changes
 = Adding folders and files to get remembering
 = Upgrade Node
 = Do not send data to Google
-- ionic serve on Codeanywhere
-- ionic serve FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+X ionic serve on Codeanywhere
+= ionic serve FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+
+02222020
+02232020
 
 02242020
 = Figure out how to reuse journal
@@ -60,10 +89,42 @@ X USB was taken while at business center
 = Log sessions with asciinema
 = Set system locale, missing /etc/locale.conf
 = Find out how to use task routines
-- ng comes from Angular, run basic angular application
-- The Schematic workflow failed error with Angular
+X ng comes from Angular, run basic angular application
+X The Schematic workflow failed error with Angular
 = Start meeting weekly to keep progress
 
 02252020
 X Setup an FTP for Codeanywhere
 = Create routines for bpawn
+
+02262020
+X Increase space on container
+= Draft how application works and where it feels good
+
+02272020
+= Build using errors and task with proper tools
+
+02282020
+X Can not code until container space increases
+- Need my own computer to avoid conflict with work
+X Use another cloud storage - private server, woomhost
++ Setup Azure for use with development
+= Subscription error for resource use
+= Ticket submitted to Azure for subscription error
+X Send ticket to Codeanywhere for increasing container size
+
+02292020
+
+03012020
+X Connect to Azure from Codeanywhere with ssh
+= Have to upgrade to get container to increase for development, trying Azure
+X ssh timeout, found instructions from Azure when Connect
+X Disable firewalls to test ssh timeout
+X Wait for business center to repair computer someone broke to use internet
+
+03022020
+= Leaving CentOS till 8 not 7
+- Setuping environment for Ionic for cloud
+
+03052020
+= Decide to stay in the cloud or go local
