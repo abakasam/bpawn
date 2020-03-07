@@ -42,6 +42,10 @@ Style Sheet                 https://www.w3.org/Style/CSS/
 Flow Programming            https://github.com/jpaulm/jsfbp
 Automata Programming        https://rosmaro.js.org/
 
+ []
+Freelancers                 https://www.codementor.io/experts
+UI Designers                https://uxstudioteam.com/
+
 STATUS
 X Canceled
 ? Created
@@ -108,7 +112,7 @@ X Increase space on container
 X Can not code until container space increases
 - Need my own computer to avoid conflict with work
 X Use another cloud storage - private server, woomhost
-+ Setup Azure for use with development
+= Setup Azure for use with development
 = Subscription error for resource use
 = Ticket submitted to Azure for subscription error
 X Send ticket to Codeanywhere for increasing container size
@@ -124,7 +128,30 @@ X Wait for business center to repair computer someone broke to use internet
 
 03022020
 = Leaving CentOS till 8 not 7
-- Setuping environment for Ionic for cloud
+= Setuping environment for Ionic for cloud
+
+03032020
+03042020
+= Got home internet
 
 03052020
 = Decide to stay in the cloud or go local
+= Setup wikidot
+= End ticket with Azure for subscription
+- Request drinks to continue working
+
+03062020
+- Began mocking the application with code
++ Command prompt freezes when it is in use for node
+- Watching videos on Ionic 4 to build application
+= Follow 1. Setting Up the Environment
+= Follow 2. Working with a Tab-Based Template
+= Follow 3. Preview App on Device with Ionic DevApp
+? Follow 4. Working with UI Components
+? Follow 5. Working with Ionic Native
+? Follow 6. Connecting an App to Firebase Backend
+? Follow 7. Working with Complex Lists
+? Need to learn Angular to move Ionic
++ Reference Angular documentation to develop not learn
++ Tool to convert to js and ts make it easy
++ Look into programming together solution
